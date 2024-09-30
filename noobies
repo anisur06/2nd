@@ -1,6 +1,4 @@
 #include <iostream>
-#include <ctime>
-#include <cstdlib>
 
 int main() {
     srand(time(0)); // Seed the random number generator
